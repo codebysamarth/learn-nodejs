@@ -1,6 +1,6 @@
 # Explanation of `server.js`
 
-This document explains the `server.js` file in detail, breaking down each part of the code to help you understand its purpose and functionality. This will serve as a reference for you in the future.
+This document explains the `server.js` file in detail, breaking down each part of the code to help to understand its purpose and functionality. This will serve as a reference in the future.
 
 ---
 
@@ -110,5 +110,3 @@ This code creates a simple web server that:
 3. Upload this project to GitHub for future reference.
 
 ---
-
-Feel free to revisit this document whenever you need a refresher!
