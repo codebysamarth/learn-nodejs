@@ -102,11 +102,4 @@ This code creates a simple web server that:
 - **Foundation**: Prepares you for using frameworks like Express.js.
 - **Practice**: Gives you hands-on experience with Node.js modules like `http`, `fs`, and `path`.
 
-### Next Steps
-1. Experiment with the code:
-   - Add more files (e.g., `contact.html`) and test serving them.
-   - Customize the `404` error message.
-2. Learn about frameworks like Express.js to simplify server creation.
-3. Upload this project to GitHub for future reference.
-
 ---
